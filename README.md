@@ -1,6 +1,6 @@
 <h1> Workflow for Prediction of Protein Structure </h1>
 
-> Project status: finished
+> Project status: adapting version to github
 
 This project is part of a work for the conclusion of a university course in biological Sciences.
 
